@@ -1,5 +1,5 @@
 # EFNet
-Feature extraction and fusion network for Salient Object Detection.
+In order to obtain the result maps, please contact email 841959827@qq.com.
 
 saliency maps: google baidu
 
